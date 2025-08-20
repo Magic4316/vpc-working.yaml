@@ -2,6 +2,7 @@
 #Revision number
 #Date
 
+
 AWSTemplateFormatVersion: '2010-09-09'
 Description: CloudFormation template to create a VPC spanning 3 AZs in us-west-2 for student raychi8975
 
